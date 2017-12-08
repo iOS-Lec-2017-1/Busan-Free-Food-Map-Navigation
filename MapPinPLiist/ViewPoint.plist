@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>lat</key>
+		<string>35.166197</string>
+		<key>long</key>
+		<string>129.072594</string>
+		<key>title</key>
+		<string>DIT 동의과학대학교</string>
+		<key>subTitle</key>
+		<string>나의 꿈이 자라는 곳</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string>35.168444</string>
+		<key>long</key>
+		<string>129.057832</string>
+		<key>title</key>
+		<string>부산시민공원</string>
+		<key>subTitle</key>
+		<string>부산시민들의 휴식처</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string>35.164437
+&lt;!DOCTYPE plist PUBLIC &quot;-//Apple//DTD PLIST 1.0//EN&quot; &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;
+&lt;plist version=&quot;1.0&quot;&gt;
+&lt;dict&gt;
+	&lt;key&gt;lat&lt;/key&gt;
+	&lt;string&gt;35.168444&lt;/string&gt;
+	&lt;key&gt;long&lt;/key&gt;
+	&lt;string&gt;129.057832&lt;/string&gt;
+	&lt;key&gt;title&lt;/key&gt;
+	&lt;string&gt;부산시민공원&lt;/string&gt;
+	&lt;key&gt;subTitle&lt;/key&gt;
+	&lt;string&gt;부산시민들의 휴식처&lt;/string&gt;
+&lt;/dict&gt;
+&lt;/plist&gt;
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE plist PUBLIC &quot;-//Apple//DTD PLIST 1.0//EN&quot; &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;
+&lt;plist version=&quot;1.0&quot;&gt;
+&lt;dict&gt;
+	&lt;key&gt;lat&lt;/key&gt;
+	&lt;string&gt;35.168444&lt;/string&gt;
+	&lt;key&gt;long&lt;/key&gt;
+	&lt;string&gt;129.057832&lt;/string&gt;
+	&lt;key&gt;title&lt;/key&gt;
+	&lt;string&gt;부산시민공원&lt;/string&gt;
+	&lt;key&gt;subTitle&lt;/key&gt;
+	&lt;string&gt;부산시민들의 휴식처&lt;/string&gt;
+&lt;/dict&gt;
+&lt;/plist&gt;
+</string>
+		<key>long</key>
+		<string>129.06490</string>
+		<key>title</key>
+		<string>송상현광장</string>
+		<key>subTitle</key>
+		<string>초록 잔디밭이 아름다운 곳</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string>35.164437</string>
+		<key>long</key>
+		<string>129.06490</string>
+		<key>title</key>
+		<string>양정역</string>
+		<key>subTitle</key>
+		<string>양정의 중심지</string>
+	</dict>
+</array>
+</plist>

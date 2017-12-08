@@ -1,0 +1,3051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>addr</key>
+		<string>부산 강서구 대저로 63번길 31(대저1동)</string>
+		<key>addrRoad</key>
+		<string>부산광역시 강서구 대저로 63번길 31(대저1동)</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>강서구</string>
+		<key>idx</key>
+		<string>68</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.2173767</string>
+		<key>lng</key>
+		<string>128.9581958</string>
+		<key>loc</key>
+		<string>강서구종합사회복지관</string>
+		<key>manageNm</key>
+		<string>강서구종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금</string>
+		<key>name</key>
+		<string>강서구종합사회복지관</string>
+		<key>phone</key>
+		<string>051-972-4593</string>
+		<key>startDay</key>
+		<string>2016-01-02</string>
+		<key>target</key>
+		<string>60</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산 강서구 체육공원로39(대저1동)</string>
+		<key>addrRoad</key>
+		<string>부산광역시 강서구 체육공원로39(대저1동)</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>강서구</string>
+		<key>idx</key>
+		<string>70</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.2073261</string>
+		<key>lng</key>
+		<string>128.9734698</string>
+		<key>loc</key>
+		<string>강서노인종합복지관</string>
+		<key>manageNm</key>
+		<string>강서노인종합복지관</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금</string>
+		<key>name</key>
+		<string>강서노인종합복지관</string>
+		<key>phone</key>
+		<string>051-972-4853</string>
+		<key>startDay</key>
+		<string>2016-01-02</string>
+		<key>target</key>
+		<string>60</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 부산진구 개금3동 1-1</string>
+		<key>addrRoad</key>
+		<string>부산광역시 부산진구 백양관문로77번길 145</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>부산진구</string>
+		<key>idx</key>
+		<string>20</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1632683</string>
+		<key>lng</key>
+		<string>129.023509</string>
+		<key>loc</key>
+		<string>개금사회복지관</string>
+		<key>manageNm</key>
+		<string>개금사회복지관</string>
+		<key>mealDay</key>
+		<string>월/화/수/목/금/토/일</string>
+		<key>name</key>
+		<string>개금사회복지관</string>
+		<key>phone</key>
+		<string>051-893-5034</string>
+		<key>startDay</key>
+		<string>1994-11-01</string>
+		<key>target</key>
+		<string>기초수급자,차상위</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 금정구 청룡동 359-1</string>
+		<key>addrRoad</key>
+		<string>부산광역시 금정구 청룡예전로110(청룡동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>금정구</string>
+		<key>idx</key>
+		<string>60</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.276236</string>
+		<key>lng</key>
+		<string>129.089945</string>
+		<key>loc</key>
+		<string>금정구노인복지관</string>
+		<key>manageNm</key>
+		<string>금정구노인복지관</string>
+		<key>mealDay</key>
+		<string>월~금</string>
+		<key>name</key>
+		<string>금정구노인복지관</string>
+		<key>phone</key>
+		<string>051-792-7200</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득 결식우려 노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 금정구 부곡동 282-32</string>
+		<key>addrRoad</key>
+		<string>부산광역시 금정구 동부곡로19번길 50(부곡동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>금정구</string>
+		<key>idx</key>
+		<string>59</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.227827</string>
+		<key>lng</key>
+		<string>129.094293</string>
+		<key>loc</key>
+		<string>금정구종합사회복지관</string>
+		<key>manageNm</key>
+		<string>금정구종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월~금</string>
+		<key>name</key>
+		<string>금정구종합사회복지관</string>
+		<key>phone</key>
+		<string>051-512-1455</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득 결식우려 노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 금정구 장전동 222-20</string>
+		<key>addrRoad</key>
+		<string>부산광역시 금정구 금강로328-3(장전동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>금정구</string>
+		<key>idx</key>
+		<string>64</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.237315</string>
+		<key>lng</key>
+		<string>129.086825</string>
+		<key>loc</key>
+		<string>금정선원경로식당</string>
+		<key>manageNm</key>
+		<string>금정선원</string>
+		<key>mealDay</key>
+		<string>월~금</string>
+		<key>name</key>
+		<string>금정선원경로식당</string>
+		<key>phone</key>
+		<string>051-515-7891</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득 결식우려 노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 기장군 기장읍 대라리 186-8</string>
+		<key>addrRoad</key>
+		<string>부산광역시 기장군 기장읍 대청로 22번길 61</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>기장군</string>
+		<key>idx</key>
+		<string>86</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.2350962</string>
+		<key>lng</key>
+		<string>129.2125958</string>
+		<key>loc</key>
+		<string>기장군 노인복지관 경로식당</string>
+		<key>manageNm</key>
+		<string>기장군 도시관리공단</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금</string>
+		<key>name</key>
+		<string>무료급식</string>
+		<key>phone</key>
+		<string>051-792-4848</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>저소득노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 일광면 이천리 930-2</string>
+		<key>addrRoad</key>
+		<string>부산광역시 기장군 일광면 이천8길 13</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>기장군</string>
+		<key>idx</key>
+		<string>87</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.2675867</string>
+		<key>lng</key>
+		<string>129.2346357</string>
+		<key>loc</key>
+		<string>기장군 일광노인복지관</string>
+		<key>manageNm</key>
+		<string>기장군 도시관리공단</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금</string>
+		<key>name</key>
+		<string>무료급식</string>
+		<key>phone</key>
+		<string>051-792-4909</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>저소득노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 기장군 기장읍 동부리 283-4</string>
+		<key>addrRoad</key>
+		<string>부산광역시 기장군 기장읍 차성동로 88-6</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>기장군</string>
+		<key>idx</key>
+		<string>81</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.245445</string>
+		<key>lng</key>
+		<string>129.2175085</string>
+		<key>loc</key>
+		<string>기장읍 경로식당</string>
+		<key>manageNm</key>
+		<string>기장군여성단체협의회</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금</string>
+		<key>name</key>
+		<string>무료급식</string>
+		<key>phone</key>
+		<string>051-722-6238</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>저소득노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산 강서구 순아강변길 5-1(명지동)</string>
+		<key>addrRoad</key>
+		<string>부산광역시 강서구 순아강변길 5-1(명지동)</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>강서구</string>
+		<key>idx</key>
+		<string>69</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1197529</string>
+		<key>lng</key>
+		<string>128.902826</string>
+		<key>loc</key>
+		<string>낙동종합사회복지관</string>
+		<key>manageNm</key>
+		<string>낙동종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금</string>
+		<key>name</key>
+		<string>낙동종합사회복지관</string>
+		<key>phone</key>
+		<string>051-271-0562</string>
+		<key>startDay</key>
+		<string>2016-01-02</string>
+		<key>target</key>
+		<string>60</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 동래구 수안동 38-16</string>
+		<key>addrRoad</key>
+		<string>부산광역시 동래구 온천천로 319번 나길 12</string>
+		<key>endDay</key>
+		<string>2017-09-28</string>
+		<key>gugun</key>
+		<string>동래구</string>
+		<key>idx</key>
+		<string>31</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1973497</string>
+		<key>lng</key>
+		<string>129.08823069</string>
+		<key>loc</key>
+		<string>낙민교회1층</string>
+		<key>manageNm</key>
+		<string>낙민교회</string>
+		<key>mealDay</key>
+		<string>목</string>
+		<key>name</key>
+		<string>낙민교회</string>
+		<key>phone</key>
+		<string>051-550-4321</string>
+		<key>startDay</key>
+		<string>2010-06-03</string>
+		<key>target</key>
+		<string>노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 부산진구 당감1동 818-220</string>
+		<key>addrRoad</key>
+		<string>부산광역시 부산진구 당감서로 16</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>부산진구</string>
+		<key>idx</key>
+		<string>21</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1627507</string>
+		<key>lng</key>
+		<string>129.0400344</string>
+		<key>loc</key>
+		<string>당감종합사회복지관</string>
+		<key>manageNm</key>
+		<string>당감종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월/화/수/목/금</string>
+		<key>name</key>
+		<string>당감종합사회복지관</string>
+		<key>phone</key>
+		<string>051-896-2320</string>
+		<key>startDay</key>
+		<string>1996-02-01</string>
+		<key>target</key>
+		<string>기초수급자,차상위</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 사하구 다대로 440(다대동)</string>
+		<key>addrRoad</key>
+		<string>부산광역시 사하구 다대로 440(다대동)</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>사하구</string>
+		<key>idx</key>
+		<string>54</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>-</string>
+		<key>lng</key>
+		<string>-</string>
+		<key>loc</key>
+		<string>다대사회복지관</string>
+		<key>manageNm</key>
+		<string>다대사회복지관</string>
+		<key>mealDay</key>
+		<string>주 5회(월~금)</string>
+		<key>name</key>
+		<string>다대사회복지관</string>
+		<key>phone</key>
+		<string>051-264-5420</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>만60세 이상 결식우려가 있는 저소득 어르신</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 연제구 연산9동 396-18</string>
+		<key>addrRoad</key>
+		<string>부산광역시 연제구 연안로 13번길 25</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>연제구</string>
+		<key>idx</key>
+		<string>74</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1886191</string>
+		<key>lng</key>
+		<string>129.1055611</string>
+		<key>loc</key>
+		<string>대양교회</string>
+		<key>manageNm</key>
+		<string>대양교회</string>
+		<key>mealDay</key>
+		<string>목 일</string>
+		<key>name</key>
+		<string>대양교회</string>
+		<key>phone</key>
+		<string>051-759-9773</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득층</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 금정구 서동 186-2</string>
+		<key>addrRoad</key>
+		<string>부산광역시 금정구 서곡로27-2(서동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>금정구</string>
+		<key>idx</key>
+		<string>62</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.217213</string>
+		<key>lng</key>
+		<string>129.104259</string>
+		<key>loc</key>
+		<string>동부경로식당</string>
+		<key>manageNm</key>
+		<string>동부교회</string>
+		<key>mealDay</key>
+		<string>월~금</string>
+		<key>name</key>
+		<string>동부경로식당</string>
+		<key>phone</key>
+		<string>051-529-9018</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득 결식우려 노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 영도구 동삼동 1121</string>
+		<key>addrRoad</key>
+		<string>부산광역시 영도구 상리로 30 (동삼동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>영도구</string>
+		<key>idx</key>
+		<string>18</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.0832789</string>
+		<key>lng</key>
+		<string>129.050076</string>
+		<key>loc</key>
+		<string>동삼종합사회복지관</string>
+		<key>manageNm</key>
+		<string>동삼종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월 ~ 금</string>
+		<key>name</key>
+		<string>동삼종합사회복지관</string>
+		<key>phone</key>
+		<string>051-405-2133</string>
+		<key>startDay</key>
+		<string>1992-03-22</string>
+		<key>target</key>
+		<string>저소득노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 사하구 다송로 59(다대동)</string>
+		<key>addrRoad</key>
+		<string>부산광역시 사하구 다송로 59(다대동)</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>사하구</string>
+		<key>idx</key>
+		<string>55</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>-</string>
+		<key>lng</key>
+		<string>-</string>
+		<key>loc</key>
+		<string>두송종합사회복지관</string>
+		<key>manageNm</key>
+		<string>두송종합사회복지관</string>
+		<key>mealDay</key>
+		<string>주 5회(월~금)</string>
+		<key>name</key>
+		<string>두송종합사회복지관</string>
+		<key>phone</key>
+		<string>051-265-9471</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>만60세 이상 결식우려가 있는 저소득 어르신</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 동래구 사직동 144-31</string>
+		<key>addrRoad</key>
+		<string>부산광역시 동래구 중앙대로 1289 4층</string>
+		<key>endDay</key>
+		<string>2017-09-15</string>
+		<key>gugun</key>
+		<string>동래구</string>
+		<key>idx</key>
+		<string>35</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.2022498</string>
+		<key>lng</key>
+		<string>129.077623</string>
+		<key>loc</key>
+		<string>두촛대교회식당</string>
+		<key>manageNm</key>
+		<string>두촛대교회</string>
+		<key>mealDay</key>
+		<string>수+금+일</string>
+		<key>name</key>
+		<string>두촛대교회</string>
+		<key>phone</key>
+		<string>051-550-4322</string>
+		<key>startDay</key>
+		<string>2009-06-07</string>
+		<key>target</key>
+		<string>노숙인, 노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 동래구 충렬대로335번길 15</string>
+		<key>addrRoad</key>
+		<string>부산광역시 동래구 충렬대로335번길 15</string>
+		<key>endDay</key>
+		<string>2017-09-18</string>
+		<key>gugun</key>
+		<string>동래구</string>
+		<key>idx</key>
+		<string>36</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1993284</string>
+		<key>lng</key>
+		<string>129.0957091</string>
+		<key>loc</key>
+		<string>만불정사식당</string>
+		<key>manageNm</key>
+		<string>만불정사</string>
+		<key>mealDay</key>
+		<string>토</string>
+		<key>name</key>
+		<string>만불정사</string>
+		<key>phone</key>
+		<string>051-550-4324</string>
+		<key>startDay</key>
+		<string>2013-04-04</string>
+		<key>target</key>
+		<string>장애인, 노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 사하구 다대낙조2길 17(다대동)</string>
+		<key>addrRoad</key>
+		<string>부산광역시 사하구 다대낙조2길 17(다대동)</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>사하구</string>
+		<key>idx</key>
+		<string>56</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>-</string>
+		<key>lng</key>
+		<string>-</string>
+		<key>loc</key>
+		<string>몰운대종합사회복지관</string>
+		<key>manageNm</key>
+		<string>몰운대종합사회복지관</string>
+		<key>mealDay</key>
+		<string>주 5회(월~금)</string>
+		<key>name</key>
+		<string>몰운대종합사회복지관</string>
+		<key>phone</key>
+		<string>051-264-9033</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>만60세 이상 결식우려가 있는 저소득 어르신</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 해운대구 반송동 880</string>
+		<key>addrRoad</key>
+		<string>부산광역시 해운대구 신반송로 159 (반송동)</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>해운대구</string>
+		<key>idx</key>
+		<string>47</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>-</string>
+		<key>lng</key>
+		<string>-</string>
+		<key>loc</key>
+		<string>반석종합사회복지관</string>
+		<key>manageNm</key>
+		<string>반석종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월+화+수+목+금</string>
+		<key>name</key>
+		<string>반석종합사회복지관</string>
+		<key>phone</key>
+		<string>051-542-0196</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>가정형편이 어려운 만60세이상 어르신</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 해운대구 반송동 697-2</string>
+		<key>addrRoad</key>
+		<string>부산광역시 해운대구 아랫반송로1번길 15 (반송동)</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>해운대구</string>
+		<key>idx</key>
+		<string>49</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>-</string>
+		<key>lng</key>
+		<string>-</string>
+		<key>loc</key>
+		<string>반송종합사회복지관</string>
+		<key>manageNm</key>
+		<string>반송종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월+화+수+목+금</string>
+		<key>name</key>
+		<string>반송종합사회복지관</string>
+		<key>phone</key>
+		<string>051-544-8006</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>가정형편이 어려운 만60세이상 어르신</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 해운대구 반여동 1291-1360</string>
+		<key>addrRoad</key>
+		<string>부산광역시 해운대구 재반로226번길 13-73 (반여동)</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>해운대구</string>
+		<key>idx</key>
+		<string>50</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>-</string>
+		<key>lng</key>
+		<string>-</string>
+		<key>loc</key>
+		<string>반여종합사회복지관</string>
+		<key>manageNm</key>
+		<string>반여종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월+화+수+목+금</string>
+		<key>name</key>
+		<string>반여종합사회복지관</string>
+		<key>phone</key>
+		<string>051-784-0552</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>가정형편이 어려운 만60세이상 어르신</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 금정구 남산동 335-16</string>
+		<key>addrRoad</key>
+		<string>부산광역시 금정구 팔송로39번길 109(남산동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>금정구</string>
+		<key>idx</key>
+		<string>61</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.26714</string>
+		<key>lng</key>
+		<string>129.088518</string>
+		<key>loc</key>
+		<string>범어경로식당</string>
+		<key>manageNm</key>
+		<string>사회복지법인범어</string>
+		<key>mealDay</key>
+		<string>월~금</string>
+		<key>name</key>
+		<string>범어경로식당</string>
+		<key>phone</key>
+		<string>051-516-3045</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득 결식우려 노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 부산진구 범천2동 산44-190</string>
+		<key>addrRoad</key>
+		<string>부산광역시 부산진구 엄광로 477-1</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>부산진구</string>
+		<key>idx</key>
+		<string>24</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1453506</string>
+		<key>lng</key>
+		<string>129.0514937</string>
+		<key>loc</key>
+		<string>범천2동 무료급식소</string>
+		<key>manageNm</key>
+		<string>범천2동 무료급식소</string>
+		<key>mealDay</key>
+		<string>월/화/수/목/금</string>
+		<key>name</key>
+		<string>범천2동 무료급식소</string>
+		<key>phone</key>
+		<string>051-646-0611</string>
+		<key>startDay</key>
+		<string>1993-03-01</string>
+		<key>target</key>
+		<string>기초수급자,차상위</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 지게골로 139-33(문현4동)</string>
+		<key>addrRoad</key>
+		<string>부산광역시 남구 지게골로 139-33(문현4동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>남구</string>
+		<key>idx</key>
+		<string>42</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.135296</string>
+		<key>lng</key>
+		<string>129.074585</string>
+		<key>loc</key>
+		<string>지게골복지관 복지관 무료급식소</string>
+		<key>manageNm</key>
+		<string>지게골복지관</string>
+		<key>mealDay</key>
+		<string>월~금</string>
+		<key>name</key>
+		<string>지게골복지관</string>
+		<key>phone</key>
+		<string>051-647-0136</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>결식노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 못골로 97-10(대연동)</string>
+		<key>addrRoad</key>
+		<string>부산광역시 남구 못골로 97-10(대연동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>남구</string>
+		<key>idx</key>
+		<string>46</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.136466</string>
+		<key>lng</key>
+		<string>129.093202</string>
+		<key>loc</key>
+		<string>남구노인복지관 무료급식소</string>
+		<key>manageNm</key>
+		<string>남구노인복지관</string>
+		<key>mealDay</key>
+		<string>월~금</string>
+		<key>name</key>
+		<string>남구노인복지관</string>
+		<key>phone</key>
+		<string>051-628-1291</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>결식노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 이기대공원로 7(용호동)</string>
+		<key>addrRoad</key>
+		<string>부산광역시 남구 이기대공원로 7(용호동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>남구</string>
+		<key>idx</key>
+		<string>45</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.124781</string>
+		<key>lng</key>
+		<string>129.113528</string>
+		<key>loc</key>
+		<string>복지관 무료급식소</string>
+		<key>manageNm</key>
+		<string>용호종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월~토</string>
+		<key>name</key>
+		<string>용호종합사회복지관</string>
+		<key>phone</key>
+		<string>051-628-6737</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>결식노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 우암로 84-1(감만동)</string>
+		<key>addrRoad</key>
+		<string>부산광역시 남구 우암로 84-1(감만동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>남구</string>
+		<key>idx</key>
+		<string>43</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.118726</string>
+		<key>lng</key>
+		<string>129.081369</string>
+		<key>loc</key>
+		<string>감만종합사회복지관 복지관 무료급식소</string>
+		<key>manageNm</key>
+		<string>감만종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월~금</string>
+		<key>name</key>
+		<string>감만종합사회복지관</string>
+		<key>phone</key>
+		<string>051-634-3415</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>결식노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 동제당로258(우암동)</string>
+		<key>addrRoad</key>
+		<string>부산광역시 남구 동제당로258(우암동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>남구</string>
+		<key>idx</key>
+		<string>44</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>129.074964</string>
+		<key>lng</key>
+		<string>129.074964</string>
+		<key>loc</key>
+		<string>남구종합사회복지관 무료급식소</string>
+		<key>manageNm</key>
+		<string>남구종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월~금</string>
+		<key>name</key>
+		<string>남구종합사회복지관</string>
+		<key>phone</key>
+		<string>051-647-3655</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>결식노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 금정구 부곡동 768-38</string>
+		<key>addrRoad</key>
+		<string>부산광역시 금정구 서동로57번길17-6(부곡동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>금정구</string>
+		<key>idx</key>
+		<string>65</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.218852</string>
+		<key>lng</key>
+		<string>129.093696</string>
+		<key>loc</key>
+		<string>부곡경로식당</string>
+		<key>manageNm</key>
+		<string>새마을부녀회</string>
+		<key>mealDay</key>
+		<string>월~금</string>
+		<key>name</key>
+		<string>부곡경로식당</string>
+		<key>phone</key>
+		<string>051-508-1397</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득 결식우려 노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 서구 부용동2가 86</string>
+		<key>addrRoad</key>
+		<string>부산광역시 서구 부용로 30(부용동2가)</string>
+		<key>endDay</key>
+		<string>9999-12-31</string>
+		<key>gugun</key>
+		<string>서구</string>
+		<key>idx</key>
+		<string>8</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.107477</string>
+		<key>lng</key>
+		<string>129.018066</string>
+		<key>loc</key>
+		<string>부민노인복지관</string>
+		<key>manageNm</key>
+		<string>부산 서구청</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금</string>
+		<key>name</key>
+		<string>부민노인복지관</string>
+		<key>phone</key>
+		<string>051-240-3532</string>
+		<key>startDay</key>
+		<string>2010-02-17</string>
+		<key>target</key>
+		<string>결식노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 동구 수정동 1169-3</string>
+		<key>addrRoad</key>
+		<string>부산광역시 동구 수정공원로 15(수정동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>동구</string>
+		<key>idx</key>
+		<string>10</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.128772</string>
+		<key>lng</key>
+		<string>129.040548</string>
+		<key>loc</key>
+		<string>부산종합사회복지관</string>
+		<key>manageNm</key>
+		<string>사회복지법인 어린이재단</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금</string>
+		<key>name</key>
+		<string>부산종합사회복지관 부산광역시 동구 수정공원로 15(수정동)</string>
+		<key>phone</key>
+		<string>051-465-0990</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>만60세이상 저소득층</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 동구 범일동 825-88</string>
+		<key>addrRoad</key>
+		<string>부산광역시 동구 자성로140번길 32(범일동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>동구</string>
+		<key>idx</key>
+		<string>12</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.13563</string>
+		<key>lng</key>
+		<string>129.064744</string>
+		<key>loc</key>
+		<string>자성대복지관</string>
+		<key>manageNm</key>
+		<string>봉생사회복지회</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금,토</string>
+		<key>name</key>
+		<string>자성대복지관 </string>
+		<key>phone</key>
+		<string>051-632-7597</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>만60세이상 저소득층</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 동구 좌천동 808-138</string>
+		<key>addrRoad</key>
+		<string>부산광역시 동구 증산로 51(좌천동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>동구</string>
+		<key>idx</key>
+		<string>9</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.13303</string>
+		<key>lng</key>
+		<string>129.04995</string>
+		<key>loc</key>
+		<string>동구무료급식소 </string>
+		<key>manageNm</key>
+		<string>동구청(동구새마을부녀회 위탁운영)</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금</string>
+		<key>name</key>
+		<string>동구무료급식소</string>
+		<key>phone</key>
+		<string>051-643-5340</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>만60세이상 저소득층</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 동구 수정동 1011-886</string>
+		<key>addrRoad</key>
+		<string>부산광역시 동구 홍곡중로5번길 24(수정동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>동구</string>
+		<key>idx</key>
+		<string>11</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.125942</string>
+		<key>lng</key>
+		<string>129.040304</string>
+		<key>loc</key>
+		<string>동구노인복지관</string>
+		<key>manageNm</key>
+		<string>사회복지법인 청광</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금,토</string>
+		<key>name</key>
+		<string>동구노인복지관 부산광역시 동구 홍곡중로5번길 24(수정동)</string>
+		<key>phone</key>
+		<string>051-467-7887</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>만60세이상 저소득층</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 서구 토성동2가 4-1</string>
+		<key>addrRoad</key>
+		<string>부산광역시 서구 까치고개로229번길 40(토성동2가)</string>
+		<key>endDay</key>
+		<string>9999-12-31</string>
+		<key>gugun</key>
+		<string>서구</string>
+		<key>idx</key>
+		<string>5</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.101443</string>
+		<key>lng</key>
+		<string>129.021125</string>
+		<key>loc</key>
+		<string>부산기독교종합사회복지관</string>
+		<key>manageNm</key>
+		<string>감리회태화복지재단</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금</string>
+		<key>name</key>
+		<string>부산기독교종합사회복지관</string>
+		<key>phone</key>
+		<string>051-257-9405</string>
+		<key>startDay</key>
+		<string>1998-03-01</string>
+		<key>target</key>
+		<string>결식노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 연제구 거제1동 1466-30</string>
+		<key>addrRoad</key>
+		<string>부산광역시 연제구 거제천로 255번길 39</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>연제구</string>
+		<key>idx</key>
+		<string>71</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1938852</string>
+		<key>lng</key>
+		<string>129.0843153</string>
+		<key>loc</key>
+		<string>부산남교회, 연제교회, 영광교회</string>
+		<key>manageNm</key>
+		<string></string>
+		<key>mealDay</key>
+		<string>수 일</string>
+		<key>name</key>
+		<string>부산남교회, 연제교회, 영광교회</string>
+		<key>phone</key>
+		<string>051-864-3346</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득층 노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 연제구 연산4동 578-3</string>
+		<key>addrRoad</key>
+		<string>부산광역시 연제구 거제천로 230번길 18</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>연제구</string>
+		<key>idx</key>
+		<string>76</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1908743</string>
+		<key>lng</key>
+		<string>129.0820081</string>
+		<key>loc</key>
+		<string>부산노인종합복지관</string>
+		<key>manageNm</key>
+		<string>부산노인종합복지관</string>
+		<key>mealDay</key>
+		<string>월 화 수 목 금 토</string>
+		<key>name</key>
+		<string>부산노인종합복지관</string>
+		<key>phone</key>
+		<string>051-853-1872</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득층 노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 연제구 연산5동 711-12</string>
+		<key>addrRoad</key>
+		<string>부산광역시 연제구 중앙대로 1076번길 39</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>연제구</string>
+		<key>idx</key>
+		<string>73</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1830702</string>
+		<key>lng</key>
+		<string>129.0821901</string>
+		<key>loc</key>
+		<string>부산예수중심교회</string>
+		<key>manageNm</key>
+		<string>부산예수중심교회</string>
+		<key>mealDay</key>
+		<string>화 금 일</string>
+		<key>name</key>
+		<string>부산예수중심교회</string>
+		<key>phone</key>
+		<string>051-634-0288</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득층 노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 수영구 금련로43번길 54(망미동)</string>
+		<key>addrRoad</key>
+		<string>부산광역시 수영구 금련로43번길 54(망미동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>수영구</string>
+		<key>idx</key>
+		<string>80</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.174471</string>
+		<key>lng</key>
+		<string>129.098266</string>
+		<key>loc</key>
+		<string>부산종합사회복지관</string>
+		<key>manageNm</key>
+		<string>부산종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월+화+수+목+금</string>
+		<key>name</key>
+		<string>부산종합사회복지관</string>
+		<key>phone</key>
+		<string>051-755-3367</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득층</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 부산진구 전포동 581</string>
+		<key>addrRoad</key>
+		<string>부산광역시 부산진구 전포대로300번길 6</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>부산진구</string>
+		<key>idx</key>
+		<string>26</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.157532</string>
+		<key>lng</key>
+		<string>129.071468</string>
+		<key>loc</key>
+		<string>부산진구사회복지관</string>
+		<key>manageNm</key>
+		<string>부산진구노인복지관</string>
+		<key>mealDay</key>
+		<string>월/화/수/목/금/토</string>
+		<key>name</key>
+		<string>부산진구노인복지관</string>
+		<key>phone</key>
+		<string>051-808-8090</string>
+		<key>startDay</key>
+		<string>2010-09-01</string>
+		<key>target</key>
+		<string>기초수급자,차상위</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 부산진구 개금2동 산57-9</string>
+		<key>addrRoad</key>
+		<string>부산광역시 부산진구 복지로117-12</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>부산진구</string>
+		<key>idx</key>
+		<string>19</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1426032</string>
+		<key>lng</key>
+		<string>129.019538</string>
+		<key>loc</key>
+		<string>부산진구종합사회복지관</string>
+		<key>manageNm</key>
+		<string>부산진구종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월/화/수/목/금</string>
+		<key>name</key>
+		<string>부산진구종합사회복지관</string>
+		<key>phone</key>
+		<string>051-893-0035</string>
+		<key>startDay</key>
+		<string>1993-05-01</string>
+		<key>target</key>
+		<string>기초수급자,차상위</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 부산진구 가야동 48-218</string>
+		<key>addrRoad</key>
+		<string>부산광역시 부산진구 엄광로292</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>부산진구</string>
+		<key>idx</key>
+		<string>28</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1549166</string>
+		<key>lng</key>
+		<string>129.0416369</string>
+		<key>loc</key>
+		<string>부산진구종합재가노인복지관</string>
+		<key>manageNm</key>
+		<string>부산진구종합재가노인복지관</string>
+		<key>mealDay</key>
+		<string>월/화/수/목/금</string>
+		<key>name</key>
+		<string>부산진구종합재가노인복지관</string>
+		<key>phone</key>
+		<string>051-951-0100</string>
+		<key>startDay</key>
+		<string>2016-01-25</string>
+		<key>target</key>
+		<string>기초수급자,차상위</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 연제구 연산2동 산183-2</string>
+		<key>addrRoad</key>
+		<string>부산광역시 연제구 황령산로 541</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>연제구</string>
+		<key>idx</key>
+		<string>72</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1672676</string>
+		<key>lng</key>
+		<string>129.0821071</string>
+		<key>loc</key>
+		<string>부전역, 부산진역</string>
+		<key>manageNm</key>
+		<string>사랑나라</string>
+		<key>mealDay</key>
+		<string>월</string>
+		<key>name</key>
+		<string>사랑나라</string>
+		<key>phone</key>
+		<string>051-866-5634</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>노숙자 저소득층</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 동래구 사직동 23-8</string>
+		<key>addrRoad</key>
+		<string>부산광역시 동래구 사직북로 34번길 59</string>
+		<key>endDay</key>
+		<string>2017-09-28</string>
+		<key>gugun</key>
+		<string>동래구</string>
+		<key>idx</key>
+		<string>34</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.2007937</string>
+		<key>lng</key>
+		<string>129.06247229</string>
+		<key>loc</key>
+		<string>사직동교회내식당</string>
+		<key>manageNm</key>
+		<string>사직동교회</string>
+		<key>mealDay</key>
+		<string>수</string>
+		<key>name</key>
+		<string>사직동교회</string>
+		<key>phone</key>
+		<string>051-502-4701</string>
+		<key>startDay</key>
+		<string>2014-03-02</string>
+		<key>target</key>
+		<string>노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 사하구 감내2로 21(감천동)</string>
+		<key>addrRoad</key>
+		<string>부산광역시 사하구 감내2로 21(감천동)</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>사하구</string>
+		<key>idx</key>
+		<string>57</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.174612</string>
+		<key>lng</key>
+		<string>129.098781</string>
+		<key>loc</key>
+		<string>사하구종합사회복지관</string>
+		<key>manageNm</key>
+		<string>사하구종합사회복지관</string>
+		<key>mealDay</key>
+		<string>주 6회(월~토)</string>
+		<key>name</key>
+		<string>사하구종합사회복지관</string>
+		<key>phone</key>
+		<string>051-293-2688</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>만60세 이상 결식우려가 있는 저소득 어르신</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 사하구 사리로 35(괴정동)</string>
+		<key>addrRoad</key>
+		<string>부산광역시 사하구 사리로 35(괴정동)</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>사하구</string>
+		<key>idx</key>
+		<string>58</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.179909</string>
+		<key>lng</key>
+		<string>129.099185</string>
+		<key>loc</key>
+		<string>사하사랑채노인복지관</string>
+		<key>manageNm</key>
+		<string>사하사랑채노인복지관</string>
+		<key>mealDay</key>
+		<string>주 5회(월~금)</string>
+		<key>name</key>
+		<string>사하사랑채노인복지관</string>
+		<key>phone</key>
+		<string>051-293-9544</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>만60세 이상 결식우려가 있는 저소득 어르신</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 영도구 동삼동 1123</string>
+		<key>addrRoad</key>
+		<string>부산광역시 영도구 상리로 63-16 (동삼동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>영도구</string>
+		<key>idx</key>
+		<string>16</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.0857405</string>
+		<key>lng</key>
+		<string>129.0510084</string>
+		<key>loc</key>
+		<string>상리종합사회복지관</string>
+		<key>manageNm</key>
+		<string>상리종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월 ~ 금</string>
+		<key>name</key>
+		<string>상리종합사회복지관</string>
+		<key>phone</key>
+		<string>051-404-4003</string>
+		<key>startDay</key>
+		<string>1994-03-30</string>
+		<key>target</key>
+		<string>저소득노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 금정구 서동 36-50</string>
+		<key>addrRoad</key>
+		<string>부산광역시 금정구 서금로60-1(서동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>금정구</string>
+		<key>idx</key>
+		<string>67</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.220295</string>
+		<key>lng</key>
+		<string>129.107357</string>
+		<key>loc</key>
+		<string>서3동경로식당</string>
+		<key>manageNm</key>
+		<string>서3동적십자봉사회</string>
+		<key>mealDay</key>
+		<string>월~금</string>
+		<key>name</key>
+		<string>서3동경로식당</string>
+		<key>phone</key>
+		<string>-</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득 결식우려 노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 서구 암남동 553-1</string>
+		<key>addrRoad</key>
+		<string>부산광역시 서구 장군산로46번길 21(암남동)</string>
+		<key>endDay</key>
+		<string>9999-12-31</string>
+		<key>gugun</key>
+		<string>서구</string>
+		<key>idx</key>
+		<string>7</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.073151</string>
+		<key>lng</key>
+		<string>129.014359</string>
+		<key>loc</key>
+		<string>서구노인복지관</string>
+		<key>manageNm</key>
+		<string>부산 서구청</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금</string>
+		<key>name</key>
+		<string>서구노인복지관</string>
+		<key>phone</key>
+		<string>051-240-3542</string>
+		<key>startDay</key>
+		<string>1998-07-31</string>
+		<key>target</key>
+		<string>결식노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 서구 동대신1동 11-33</string>
+		<key>addrRoad</key>
+		<string>부산광역시 서구 망양로193번길 104(동대신동1가)</string>
+		<key>endDay</key>
+		<string>9999-12-31</string>
+		<key>gugun</key>
+		<string>서구</string>
+		<key>idx</key>
+		<string>4</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.11112</string>
+		<key>lng</key>
+		<string>129.025897</string>
+		<key>loc</key>
+		<string>서구종합사회복지관</string>
+		<key>manageNm</key>
+		<string>로사리오카리타스</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금</string>
+		<key>name</key>
+		<string>서구종합사회복지관</string>
+		<key>phone</key>
+		<string>051-253-1922</string>
+		<key>startDay</key>
+		<string>1996-05-01</string>
+		<key>target</key>
+		<string>결식노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 금정구 서동 302-1885</string>
+		<key>addrRoad</key>
+		<string>부산광역시 금정구 명서로45번길11(서동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>금정구</string>
+		<key>idx</key>
+		<string>63</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.216151</string>
+		<key>lng</key>
+		<string>129.095831</string>
+		<key>loc</key>
+		<string>서동경로식당</string>
+		<key>manageNm</key>
+		<string>사회복지법인동주</string>
+		<key>mealDay</key>
+		<string>월~금</string>
+		<key>name</key>
+		<string>서동경로식당</string>
+		<key>phone</key>
+		<string>051-851-2190</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득 결식우려 노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 부산진구 당감동 253-4</string>
+		<key>addrRoad</key>
+		<string>부산광역시 부산진구 당감로 11</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>부산진구</string>
+		<key>idx</key>
+		<string>25</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1626836</string>
+		<key>lng</key>
+		<string>129.039668</string>
+		<key>loc</key>
+		<string>선양복지원</string>
+		<key>manageNm</key>
+		<string>선양복지원</string>
+		<key>mealDay</key>
+		<string>월/화/수/목/금</string>
+		<key>name</key>
+		<string>선양복지원</string>
+		<key>phone</key>
+		<string>051-896-8528</string>
+		<key>startDay</key>
+		<string>2008-10-01</string>
+		<key>target</key>
+		<string>기초수급자,차상위</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 수영구 황령대로489번길 83(남천동)</string>
+		<key>addrRoad</key>
+		<string>부산광역시 수영구 황령대로489번길 83(남천동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>수영구</string>
+		<key>idx</key>
+		<string>79</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.159422</string>
+		<key>lng</key>
+		<string>129.111631</string>
+		<key>loc</key>
+		<string>수영구노인복지관</string>
+		<key>manageNm</key>
+		<string>수영구노인복지관</string>
+		<key>mealDay</key>
+		<string>월+화+수+목+금</string>
+		<key>name</key>
+		<string>수영구노인복지관</string>
+		<key>phone</key>
+		<string>051-759-6070</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득층</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 연제구 거제동 1040-2</string>
+		<key>addrRoad</key>
+		<string>부산광역시 연제구 월드컵대로 248번길 15</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>연제구</string>
+		<key>idx</key>
+		<string>78</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.8190501</string>
+		<key>lng</key>
+		<string>127.8733001</string>
+		<key>loc</key>
+		<string>수자타의집</string>
+		<key>manageNm</key>
+		<string>수자타의집</string>
+		<key>mealDay</key>
+		<string>토 일</string>
+		<key>name</key>
+		<string>수자타의집</string>
+		<key>phone</key>
+		<string>051-502-3710</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득층 노인 노숙자</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 동래구 명장동 151-14</string>
+		<key>addrRoad</key>
+		<string>부산광역시 동래구 명장로 84</string>
+		<key>endDay</key>
+		<string>2017-09-19</string>
+		<key>gugun</key>
+		<string>동래구</string>
+		<key>idx</key>
+		<string>37</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.2033276</string>
+		<key>lng</key>
+		<string>129.1093879</string>
+		<key>loc</key>
+		<string>동래한우리봉사단 스팀세차장</string>
+		<key>manageNm</key>
+		<string>동래한우리봉사단</string>
+		<key>mealDay</key>
+		<string>화</string>
+		<key>name</key>
+		<string>동래한우리봉사단</string>
+		<key>phone</key>
+		<string>051-550-4311</string>
+		<key>startDay</key>
+		<string>2016-02-01</string>
+		<key>target</key>
+		<string>장애인, 노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 동래구 명륜동 355</string>
+		<key>addrRoad</key>
+		<string>부산광역시 동래구 명륜로112번가길 52</string>
+		<key>endDay</key>
+		<string>2017-09-30</string>
+		<key>gugun</key>
+		<string>동래구</string>
+		<key>idx</key>
+		<string>33</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.2056933</string>
+		<key>lng</key>
+		<string>129.0831497</string>
+		<key>loc</key>
+		<string>아름다운 동행 식당주차장</string>
+		<key>manageNm</key>
+		<string>아름다운 동행</string>
+		<key>mealDay</key>
+		<string>토</string>
+		<key>name</key>
+		<string>아름다운 동행</string>
+		<key>phone</key>
+		<string>051-550-4314</string>
+		<key>startDay</key>
+		<string>2016-01-12</string>
+		<key>target</key>
+		<string>노숙인, 노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 부산진구 당감동 93-6</string>
+		<key>addrRoad</key>
+		<string>부산광역시 부산진구 가야대로703번나길 28</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>부산진구</string>
+		<key>idx</key>
+		<string>27</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1626836</string>
+		<key>lng</key>
+		<string>129.039668</string>
+		<key>loc</key>
+		<string>신빈회 요셉의집</string>
+		<key>manageNm</key>
+		<string>신빈회 요셉의집</string>
+		<key>mealDay</key>
+		<string>월/화/수/목/금</string>
+		<key>name</key>
+		<string>신빈회 요셉의집</string>
+		<key>phone</key>
+		<string>051-898-0506</string>
+		<key>startDay</key>
+		<string>2015-01-16</string>
+		<key>target</key>
+		<string>기초수급자,차상위</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 동래구 명장동 497-80</string>
+		<key>addrRoad</key>
+		<string>부산광역시 동래구 명서로 146</string>
+		<key>endDay</key>
+		<string>2017-09-25</string>
+		<key>gugun</key>
+		<string>동래구</string>
+		<key>idx</key>
+		<string>40</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.2099551</string>
+		<key>lng</key>
+		<string>129.1022206</string>
+		<key>loc</key>
+		<string>아사원</string>
+		<key>manageNm</key>
+		<string>아사원</string>
+		<key>mealDay</key>
+		<string>화</string>
+		<key>name</key>
+		<string>아사원</string>
+		<key>phone</key>
+		<string>051-529-2261</string>
+		<key>startDay</key>
+		<string>2014-07-07</string>
+		<key>target</key>
+		<string>다솜장애인주간보호센터장애인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 부산진구 양정2동 260-5</string>
+		<key>addrRoad</key>
+		<string>부산광역시 부산진구 동평로405번길 81</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>부산진구</string>
+		<key>idx</key>
+		<string>22</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1772787</string>
+		<key>lng</key>
+		<string>129.0717449</string>
+		<key>loc</key>
+		<string>양정재가노인복지센터</string>
+		<key>manageNm</key>
+		<string>양정재가노인복지센터</string>
+		<key>mealDay</key>
+		<string>월/화/수/목/금</string>
+		<key>name</key>
+		<string>양정재가노인복지센터</string>
+		<key>phone</key>
+		<string>051-866-0454</string>
+		<key>startDay</key>
+		<string>2000-03-01</string>
+		<key>target</key>
+		<string>기초수급자,차상위</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 동래구 명장동 300-58</string>
+		<key>addrRoad</key>
+		<string>부산광역시 동래구 명서로 148</string>
+		<key>endDay</key>
+		<string>2017-09-16</string>
+		<key>gugun</key>
+		<string>동래구</string>
+		<key>idx</key>
+		<string>39</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.2097506</string>
+		<key>lng</key>
+		<string>129.1023036</string>
+		<key>loc</key>
+		<string>언양식육식당</string>
+		<key>manageNm</key>
+		<string>언양식육식당</string>
+		<key>mealDay</key>
+		<string>수</string>
+		<key>name</key>
+		<string>언양식육식당</string>
+		<key>phone</key>
+		<string>051-550-4354</string>
+		<key>startDay</key>
+		<string>2012-04-03</string>
+		<key>target</key>
+		<string>노인, 기초수급자</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 영도구 대교동2가 159-10</string>
+		<key>addrRoad</key>
+		<string>부산광역시 영도구 절영로29번길 14 (대교동2가)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>영도구</string>
+		<key>idx</key>
+		<string>13</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.0913598</string>
+		<key>lng</key>
+		<string>129.022603</string>
+		<key>loc</key>
+		<string>영도구노인복지관</string>
+		<key>manageNm</key>
+		<string>영도구노인복지관</string>
+		<key>mealDay</key>
+		<string>월 ~ 토</string>
+		<key>name</key>
+		<string>영도구노인복지관</string>
+		<key>phone</key>
+		<string>051-417-6344</string>
+		<key>startDay</key>
+		<string>2001-10-26</string>
+		<key>target</key>
+		<string>저소득노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 영도구 신선동3가 112-127</string>
+		<key>addrRoad</key>
+		<string>부산광역시 영도구 산정길 138 (신선동3가)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>영도구</string>
+		<key>idx</key>
+		<string>17</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.0812553</string>
+		<key>lng</key>
+		<string>129.0300234</string>
+		<key>loc</key>
+		<string>영도종합사회복지관</string>
+		<key>manageNm</key>
+		<string>영도종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월 ~ 금</string>
+		<key>name</key>
+		<string>영도종합사회복지관</string>
+		<key>phone</key>
+		<string>051-413-4661</string>
+		<key>startDay</key>
+		<string>1992-03-20</string>
+		<key>target</key>
+		<string>저소득노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 해운대구 반여동 1247</string>
+		<key>addrRoad</key>
+		<string>부산광역시 해운대구 반여로 165 (반여동)</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>해운대구</string>
+		<key>idx</key>
+		<string>52</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>-</string>
+		<key>lng</key>
+		<string>-</string>
+		<key>loc</key>
+		<string>영진종합사회복지관</string>
+		<key>manageNm</key>
+		<string>영진종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월+화+수+목+금</string>
+		<key>name</key>
+		<string>영진종합사회복지관</string>
+		<key>phone</key>
+		<string>051-529-0005</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>가정형편이 어려운 만60세이상 어르신</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 동래구 명장동 300-60</string>
+		<key>addrRoad</key>
+		<string>부산광역시 동래구 명서로 148-4</string>
+		<key>endDay</key>
+		<string>2017-09-28</string>
+		<key>gugun</key>
+		<string>동래구</string>
+		<key>idx</key>
+		<string>41</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.209705</string>
+		<key>lng</key>
+		<string>129.10217</string>
+		<key>loc</key>
+		<string>옥선사</string>
+		<key>manageNm</key>
+		<string>옥선사</string>
+		<key>mealDay</key>
+		<string>목</string>
+		<key>name</key>
+		<string>옥선사</string>
+		<key>phone</key>
+		<string>051-550-4783</string>
+		<key>startDay</key>
+		<string>2014-05-06</string>
+		<key>target</key>
+		<string>노인, 기초수급자</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 영도구 동삼동 510-9</string>
+		<key>addrRoad</key>
+		<string>부산광역시 영도구 함지로79번길 76 (동삼동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>영도구</string>
+		<key>idx</key>
+		<string>14</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.0760068</string>
+		<key>lng</key>
+		<string>129.0478892</string>
+		<key>loc</key>
+		<string>와치종합사회복지관</string>
+		<key>manageNm</key>
+		<string>와치종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월 ~ 금</string>
+		<key>name</key>
+		<string>와치종합사회복지관</string>
+		<key>phone</key>
+		<string>051-403-4200</string>
+		<key>startDay</key>
+		<string>1995-04-21</string>
+		<key>target</key>
+		<string>저소득노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 해운대구 반송동 58-3</string>
+		<key>addrRoad</key>
+		<string>부산광역시 해운대구 신반송로 20 (반송동)</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>해운대구</string>
+		<key>idx</key>
+		<string>48</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>-</string>
+		<key>lng</key>
+		<string>-</string>
+		<key>loc</key>
+		<string>운봉종합사회복지관</string>
+		<key>manageNm</key>
+		<string>운봉종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월+화+수+목+금</string>
+		<key>name</key>
+		<string>운봉종합사회복지관</string>
+		<key>phone</key>
+		<string>051-543-2431</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>가정형편이 어려운 만60세이상 어르신</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 동래구 안락동 462-10</string>
+		<key>addrRoad</key>
+		<string>부산광역시 동래구 충렬대로457번길 28</string>
+		<key>endDay</key>
+		<string>2017-09-20</string>
+		<key>gugun</key>
+		<string>동래구</string>
+		<key>idx</key>
+		<string>38</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.2048575</string>
+		<key>lng</key>
+		<string>129.0836402</string>
+		<key>loc</key>
+		<string>유림가든</string>
+		<key>manageNm</key>
+		<string>유림가든</string>
+		<key>mealDay</key>
+		<string>수</string>
+		<key>name</key>
+		<string>유림가든</string>
+		<key>phone</key>
+		<string>051-523-3966</string>
+		<key>startDay</key>
+		<string>2015-04-03</string>
+		<key>target</key>
+		<string>독거노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 기장군 일광면 이천리 908-22</string>
+		<key>addrRoad</key>
+		<string>부산광역시 기장군 일광면 이천길 3</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>기장군</string>
+		<key>idx</key>
+		<string>83</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.2662426</string>
+		<key>lng</key>
+		<string>129.2350532</string>
+		<key>loc</key>
+		<string>일광면 경로식당</string>
+		<key>manageNm</key>
+		<string>일광면 새마을부녀회</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금</string>
+		<key>name</key>
+		<string>무료급식</string>
+		<key>phone</key>
+		<string>051-724-5324</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>저소득노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 부산진구 가야동 655-3</string>
+		<key>addrRoad</key>
+		<string>부산광역시 부산진구 냉정로 237</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>부산진구</string>
+		<key>idx</key>
+		<string>30</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1510854</string>
+		<key>lng</key>
+		<string>129.0258182</string>
+		<key>loc</key>
+		<string>이웃사랑의 집</string>
+		<key>manageNm</key>
+		<string>이웃사랑의 집</string>
+		<key>mealDay</key>
+		<string>월/화/수/목/금</string>
+		<key>name</key>
+		<string>이웃사랑의 집</string>
+		<key>phone</key>
+		<string>070-7337-3178</string>
+		<key>startDay</key>
+		<string>2013-05-07</string>
+		<key>target</key>
+		<string>결식노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 해운대구 좌동 1305-1</string>
+		<key>addrRoad</key>
+		<string>부산광역시 해운대구 좌동로 126 (좌동)</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>해운대구</string>
+		<key>idx</key>
+		<string>53</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>-</string>
+		<key>lng</key>
+		<string>-</string>
+		<key>loc</key>
+		<string>장산노인복지관</string>
+		<key>manageNm</key>
+		<string>장산노인복지관</string>
+		<key>mealDay</key>
+		<string>월+화+수+목+금</string>
+		<key>name</key>
+		<string>장산노인복지관</string>
+		<key>phone</key>
+		<string>051-704-9141</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>가정형편이 어려운 만60세이상 어르신</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 기장군 장안읍 월내리 257-6</string>
+		<key>addrRoad</key>
+		<string>부산광역시 기장군 장안읍 월내2길10-21</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>기장군</string>
+		<key>idx</key>
+		<string>82</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.3289882</string>
+		<key>lng</key>
+		<string>129.2623411</string>
+		<key>loc</key>
+		<string>장안읍 경로식당</string>
+		<key>manageNm</key>
+		<string>월내좋은교회</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금</string>
+		<key>name</key>
+		<string>무료급식</string>
+		<key>phone</key>
+		<string>051-727-0759</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>저소득노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 부산진구 전포1동 343-5</string>
+		<key>addrRoad</key>
+		<string>부산광역시 부산진구 전포대로190번길 35</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>부산진구</string>
+		<key>idx</key>
+		<string>23</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1536436</string>
+		<key>lng</key>
+		<string>129.0675507</string>
+		<key>loc</key>
+		<string>전포종합사회복지관</string>
+		<key>manageNm</key>
+		<string>전포종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월/화/수/목/금</string>
+		<key>name</key>
+		<string>전포종합사회복지관</string>
+		<key>phone</key>
+		<string>070-8933-6375</string>
+		<key>startDay</key>
+		<string>2002-03-01</string>
+		<key>target</key>
+		<string>기초수급자,차상위</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 영도구 동삼동 1124-6</string>
+		<key>addrRoad</key>
+		<string>부산광역시 영도구 함지로 33-10 (동삼동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>영도구</string>
+		<key>idx</key>
+		<string>15</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.072259</string>
+		<key>lng</key>
+		<string>129.0449854</string>
+		<key>loc</key>
+		<string>절영종합사회복지관</string>
+		<key>manageNm</key>
+		<string>절영종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월 ~ 금</string>
+		<key>name</key>
+		<string>절영종합사회복지관</string>
+		<key>phone</key>
+		<string>051-404-5530</string>
+		<key>startDay</key>
+		<string>1994-03-12</string>
+		<key>target</key>
+		<string>저소득노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 기장군 정관면 매학리 742</string>
+		<key>addrRoad</key>
+		<string>부산광역시 기장군 정관면 구연3로 27</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>기장군</string>
+		<key>idx</key>
+		<string>84</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.3169318</string>
+		<key>lng</key>
+		<string>129.1661424</string>
+		<key>loc</key>
+		<string>정관면 경로식당</string>
+		<key>manageNm</key>
+		<string>정관읍 새마을부녀회</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금</string>
+		<key>name</key>
+		<string>무료급식</string>
+		<key>phone</key>
+		<string>051-727-2838</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>저소득노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 중구 보수동1가 113번지</string>
+		<key>addrRoad</key>
+		<string>부산광역시 중구 책방골목길 3-1</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>중구</string>
+		<key>idx</key>
+		<string>1</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.104418</string>
+		<key>lng</key>
+		<string>129.026225</string>
+		<key>loc</key>
+		<string>중구노인복지관</string>
+		<key>manageNm</key>
+		<string>중구노인복지관경로식당</string>
+		<key>mealDay</key>
+		<string>월~금</string>
+		<key>name</key>
+		<string>중구노인복지관</string>
+		<key>phone</key>
+		<string>051-241-2591</string>
+		<key>startDay</key>
+		<string>2006-09-26</string>
+		<key>target</key>
+		<string>60</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 중구 영주동 287-9</string>
+		<key>addrRoad</key>
+		<string>부산광역시 중구 영주로 8-1</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>중구</string>
+		<key>idx</key>
+		<string>2</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.104392</string>
+		<key>lng</key>
+		<string>129.026172</string>
+		<key>loc</key>
+		<string>중구노인복지관 분관 경로식당</string>
+		<key>manageNm</key>
+		<string>중구노인복지관분관경로식당</string>
+		<key>mealDay</key>
+		<string>월~금</string>
+		<key>name</key>
+		<string>중구노인복지관분관</string>
+		<key>phone</key>
+		<string>051-462-0316</string>
+		<key>startDay</key>
+		<string>2010-10-27</string>
+		<key>target</key>
+		<string>60</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 중구 대청동4가 75-7번지</string>
+		<key>addrRoad</key>
+		<string>부산광역시 중구 망양로 309</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>중구</string>
+		<key>idx</key>
+		<string>3</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.106058</string>
+		<key>lng</key>
+		<string>129.028270</string>
+		<key>loc</key>
+		<string>중구종합사회복지관 1층 경로식당</string>
+		<key>manageNm</key>
+		<string>중구종합사회복지관 경로식당</string>
+		<key>mealDay</key>
+		<string>월~금</string>
+		<key>name</key>
+		<string>중구종합사회복지관</string>
+		<key>phone</key>
+		<string>051-464-3137</string>
+		<key>startDay</key>
+		<string>1995-03-01</string>
+		<key>target</key>
+		<string>60</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 연제구 연산1동 964-8</string>
+		<key>addrRoad</key>
+		<string>부산광역시 연제구 고분로 98</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>연제구</string>
+		<key>idx</key>
+		<string>77</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1856262</string>
+		<key>lng</key>
+		<string>129.0929841</string>
+		<key>loc</key>
+		<string>참주랑교회</string>
+		<key>manageNm</key>
+		<string>참주랑교회</string>
+		<key>mealDay</key>
+		<string>월 화 수 목 금 토 일</string>
+		<key>name</key>
+		<string>참주랑교회</string>
+		<key>phone</key>
+		<string>051-861-5436</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득층 아동</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 서구 서대신동3가 319</string>
+		<key>addrRoad</key>
+		<string>부산광역시 서구 구덕로333번길 36(서대신동3가)</string>
+		<key>endDay</key>
+		<string>9999-12-31</string>
+		<key>gugun</key>
+		<string>서구</string>
+		<key>idx</key>
+		<string>6</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.113052</string>
+		<key>lng</key>
+		<string>129.014192</string>
+		<key>loc</key>
+		<string>천주교 서대신성당</string>
+		<key>manageNm</key>
+		<string>천주교 서대신성당</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금</string>
+		<key>name</key>
+		<string>천주교 서대신성당</string>
+		<key>phone</key>
+		<string>051-253-6993</string>
+		<key>startDay</key>
+		<string>1990-01-01</string>
+		<key>target</key>
+		<string>결식노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 장전리 279-1</string>
+		<key>addrRoad</key>
+		<string>부산광역시 기장군 철마면 계좌로 822</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>기장군</string>
+		<key>idx</key>
+		<string>85</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.2735859</string>
+		<key>lng</key>
+		<string>129.1326021</string>
+		<key>loc</key>
+		<string>철마면 경로식당</string>
+		<key>manageNm</key>
+		<string>철마면 새마을부녀회</string>
+		<key>mealDay</key>
+		<string>월,화,수,목,금</string>
+		<key>name</key>
+		<string>무료급식</string>
+		<key>phone</key>
+		<string>051-4800-2917</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>저소득노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 부산진구 초읍동 43</string>
+		<key>addrRoad</key>
+		<string>부산광역시 부산진구 새싹로 295</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>부산진구</string>
+		<key>idx</key>
+		<string>29</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1870883</string>
+		<key>lng</key>
+		<string>129.0386591</string>
+		<key>loc</key>
+		<string>초읍어린이대공원 무료급식소</string>
+		<key>manageNm</key>
+		<string>(</string>
+		<key>mealDay</key>
+		<string>월/화/수/목/금/토</string>
+		<key>name</key>
+		<string>초읍어린이대공원 무료급식소</string>
+		<key>phone</key>
+		<string>051-805-7743</string>
+		<key>startDay</key>
+		<string>1989-05-01</string>
+		<key>target</key>
+		<string>결식노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 금정구 서동 295-49</string>
+		<key>addrRoad</key>
+		<string>부산광역시 금정구 서동중심로53번길 10(서동)</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>금정구</string>
+		<key>idx</key>
+		<string>66</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.213572</string>
+		<key>lng</key>
+		<string>129.102935</string>
+		<key>loc</key>
+		<string>평화나눔경로식당</string>
+		<key>manageNm</key>
+		<string>서2동새마을부녀회</string>
+		<key>mealDay</key>
+		<string>월~금</string>
+		<key>name</key>
+		<string>평화나눔경로식당</string>
+		<key>phone</key>
+		<string>-</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득 결식우려 노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 연제구 연산9동 416-11</string>
+		<key>addrRoad</key>
+		<string>부산광역시 연제구 과정로 237번길 69</string>
+		<key>endDay</key>
+		<string>-</string>
+		<key>gugun</key>
+		<string>연제구</string>
+		<key>idx</key>
+		<string>75</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.1859253</string>
+		<key>lng</key>
+		<string>129.1046632</string>
+		<key>loc</key>
+		<string>한마음교회</string>
+		<key>manageNm</key>
+		<string>한마음교회</string>
+		<key>mealDay</key>
+		<string>수 일</string>
+		<key>name</key>
+		<string>한마음교회</string>
+		<key>phone</key>
+		<string>051-851-8579</string>
+		<key>startDay</key>
+		<string>-</string>
+		<key>target</key>
+		<string>저소득층</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 해운대구 재송동 100-9</string>
+		<key>addrRoad</key>
+		<string>부산광역시 해운대구 재반로12번길 16 (재송동)</string>
+		<key>endDay</key>
+		<string>2016-12-31</string>
+		<key>gugun</key>
+		<string>해운대구</string>
+		<key>idx</key>
+		<string>51</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>-</string>
+		<key>lng</key>
+		<string>-</string>
+		<key>loc</key>
+		<string>해운대종합사회복지관</string>
+		<key>manageNm</key>
+		<string>해운대종합사회복지관</string>
+		<key>mealDay</key>
+		<string>월+화+수+목+금</string>
+		<key>name</key>
+		<string>해운대종합사회복지관</string>
+		<key>phone</key>
+		<string>051-782-5005</string>
+		<key>startDay</key>
+		<string>2016-01-01</string>
+		<key>target</key>
+		<string>가정형편이 어려운 만60세이상 어르신</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 동래구 칠산동 254-1</string>
+		<key>addrRoad</key>
+		<string>부산광역시 동래구 명륜로112번길 95</string>
+		<key>endDay</key>
+		<string>2017-09-29</string>
+		<key>gugun</key>
+		<string>동래구</string>
+		<key>idx</key>
+		<string>32</string>
+		<key>item</key>
+		<string>
+</string>
+		<key>lat</key>
+		<string>35.2027833</string>
+		<key>lng</key>
+		<string>129.0880199</string>
+		<key>loc</key>
+		<string>효심사</string>
+		<key>manageNm</key>
+		<string>효심밥상무료급식소</string>
+		<key>mealDay</key>
+		<string>월+화+수+목+금</string>
+		<key>name</key>
+		<string>효심밥상무료급식소</string>
+		<key>phone</key>
+		<string>051-558-2108</string>
+		<key>startDay</key>
+		<string>2016-02-15</string>
+		<key>target</key>
+		<string>노숙인,노인</string>
+		<key>time</key>
+		<string>-</string>
+	</dict>
+</array>
+</plist>

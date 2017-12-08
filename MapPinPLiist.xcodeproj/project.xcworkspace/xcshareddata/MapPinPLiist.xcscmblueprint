@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E127C5E396C4BF7C398089722406C16293406F91",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E127C5E396C4BF7C398089722406C16293406F91" : 9223372036854775807,
+    "D0CA12DC35E5D292F21ED5A792F50A73E4BDDE9C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "02BF8E13-3094-4742-B441-2C2EB19C269B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E127C5E396C4BF7C398089722406C16293406F91" : "MapPinPLiist\/",
+    "D0CA12DC35E5D292F21ED5A792F50A73E4BDDE9C" : "Map01_Data_Model_pList\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MapPinPLiist",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MapPinPLiist.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iOS-Lec-2017-1\/Map01_Data_Model_pList.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D0CA12DC35E5D292F21ED5A792F50A73E4BDDE9C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iOS-Lec-2017-1\/MapPinPList.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E127C5E396C4BF7C398089722406C16293406F91"
+    }
+  ]
+}
