@@ -164,9 +164,9 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
     
     func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
         let coor = manager.location?.coordinate
-        curLat = coor?.latitude
-        curLong = coor?.longitude
-        //print("latitute  \(String(describing: curLat))    longitude   \(String(describing: curLong))")
+        let curLat = coor?.latitude
+        let curLong = coor?.longitude
+        print("latitute  \(String(describing: curLat))    longitude   \(String(describing: curLong))")
     }
     
     
