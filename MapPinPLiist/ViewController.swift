@@ -56,12 +56,13 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
         locationManager.startUpdatingLocation()
         locationManager.startUpdatingHeading()
         
-        zoomToRegion()
         /////////////////////////////
         
         // 지도에 현재 위치 마크를 보여줌
         myMapView.showsUserLocation = true
         myMapView.userLocation.title = "현재 위치"
+        
+        zoomToRegion()
         
         let path = Bundle.main.path(forResource: "data", ofType: "plist")
         items = NSArray(contentsOfFile: path!) as! [[String : String]]
@@ -85,12 +86,15 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
         
         myMapView.addAnnotations(annos)
         //myMapView.showAnnotations(annos, animated: true)
-        myMapView.selectAnnotation(annos[10], animated: true)
+        //myMapView.selectAnnotation(annos[10], animated: true)
     }
     
     func zoomToRegion() {
-        // 35.162685, 129.064238
-        let center = CLLocationCoordinate2DMake(35.199990, 129.083200)
+        // 35.199990, 129.083200
+        let curLat = locationManager.location?.coordinate.latitude
+        let curLong = locationManager.location?.coordinate.longitude
+        let center = CLLocationCoordinate2DMake(curLat!, curLong!)
+        
         let span = MKCoordinateSpanMake(0.2, 0.2)
         let region = MKCoordinateRegionMake(center, span)
         myMapView.setRegion(region, animated: true)
@@ -156,6 +160,13 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
 //            naviVC.nLoc = viewTitle
             
         }
+    }
+    
+    func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
+        let coor = manager.location?.coordinate
+        curLat = coor?.latitude
+        curLong = coor?.longitude
+        //print("latitute  \(String(describing: curLat))    longitude   \(String(describing: curLong))")
     }
     
     
