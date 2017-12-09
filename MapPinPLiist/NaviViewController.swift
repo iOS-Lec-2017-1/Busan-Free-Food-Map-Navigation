@@ -32,14 +32,13 @@ class NaviViewController: UIViewController {
     var nLat: Double?
     var nLong: Double?
     var nLoc: String?
-    //var nItems:[[String:String]] = []
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
         //Defining destination
-        // 기장 연화리 35.228482, 129.226177
+        
         let latitude:CLLocationDegrees = nLat!
         let longitude:CLLocationDegrees = nLong!
         
@@ -51,15 +50,11 @@ class NaviViewController: UIViewController {
         
         let placemark = MKPlacemark(coordinate: coordinates)
         let mapItem = MKMapItem(placemark: placemark)
+        
         mapItem.name = nLoc
         mapItem.openInMaps(launchOptions: options)
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-    
 
     /*
     // MARK: - Navigation

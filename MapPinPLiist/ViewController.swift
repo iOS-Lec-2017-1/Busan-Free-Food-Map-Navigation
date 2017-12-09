@@ -56,12 +56,12 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
         locationManager.startUpdatingLocation()
         locationManager.startUpdatingHeading()
         
-        
         zoomToRegion()
         /////////////////////////////
         
         // 지도에 현재 위치 마크를 보여줌
         myMapView.showsUserLocation = true
+        myMapView.userLocation.title = "현재 위치"
         
         let path = Bundle.main.path(forResource: "data", ofType: "plist")
         items = NSArray(contentsOfFile: path!) as! [[String : String]]
@@ -81,19 +81,17 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
             anno.title = item["loc"]
             anno.subtitle = item["addr"]
             annos.append(anno)
-            
         }
-        //myMapView.showAnnotations(annos, animated: true)
-        myMapView.addAnnotations(annos)
-        myMapView.selectAnnotation(annos[0], animated: true)
         
-                
+        myMapView.addAnnotations(annos)
+        //myMapView.showAnnotations(annos, animated: true)
+        myMapView.selectAnnotation(annos[10], animated: true)
     }
     
     func zoomToRegion() {
         // 35.162685, 129.064238
-        let center = CLLocationCoordinate2DMake(35.162685, 129.083200)
-        let span = MKCoordinateSpanMake(0.35, 0.44)
+        let center = CLLocationCoordinate2DMake(35.199990, 129.083200)
+        let span = MKCoordinateSpanMake(0.2, 0.2)
         let region = MKCoordinateRegionMake(center, span)
         myMapView.setRegion(region, animated: true)
     }
@@ -133,7 +131,7 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
 //        print("\(viewSubTitle) \(viewSubTitle)")
         
         if control == view.rightCalloutAccessoryView {
-            self.performSegue(withIdentifier: "goNavi", sender: self)
+            self.performSegue(withIdentifier: "goDetail", sender: self)
         }
         
 //        let ac = UIAlertController(title: viewTitle, message: viewSubTitle, preferredStyle: .alert)
@@ -147,21 +145,25 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         // Get the new view controller using segue.destinationViewController.
         // Pass the selected object to the new view controller.
-        if segue.identifier == "goNavi" {
-            let naviVC = segue.destination as! NaviViewController
-            naviVC.nLat = fLat
-            naviVC.nLong = fLong
-            naviVC.nLoc = viewTitle
+        if segue.identifier == "goDetail" {
+            let detailVC = segue.destination as! DetailTableViewController
+            detailVC.dItems = items
+            
+            detailVC.dLoc = viewTitle
+            
+//            naviVC.nLat = fLat
+//            naviVC.nLong = fLong
+//            naviVC.nLoc = viewTitle
             
         }
     }
     
     
     // 콘솔(print)로 현재 위치 변화 출력
-    func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
-        let coor = manager.location?.coordinate
-        print("latitute" + String(describing: coor?.latitude) + "/ longitude" + String(describing: coor?.longitude))
-    }
+//    func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
+//        let coor = manager.location?.coordinate
+//        print("latitute" + String(describing: coor?.latitude) + "/ longitude" + String(describing: coor?.longitude))
+//    }
 
 }
 

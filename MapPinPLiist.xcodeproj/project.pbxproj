@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		051E00231FDAC35500FCDB2B /* DetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051E00221FDAC35500FCDB2B /* DetailTableViewController.swift */; };
 		053ACF161FD9648F00792E29 /* data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 053ACF151FD9648F00792E29 /* data.plist */; };
 		053ACF191FD9784E00792E29 /* NaviViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053ACF181FD9784E00792E29 /* NaviViewController.swift */; };
 		05B13A881F6E54C200669037 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B13A871F6E54C200669037 /* AppDelegate.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		051E00221FDAC35500FCDB2B /* DetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailTableViewController.swift; sourceTree = "<group>"; };
 		053ACF151FD9648F00792E29 /* data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = data.plist; sourceTree = SOURCE_ROOT; };
 		053ACF171FD96F6700792E29 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		053ACF181FD9784E00792E29 /* NaviViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaviViewController.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				05B13A8E1F6E54C200669037 /* Assets.xcassets */,
 				05B13A901F6E54C200669037 /* LaunchScreen.storyboard */,
 				05B13A931F6E54C200669037 /* Info.plist */,
+				051E00221FDAC35500FCDB2B /* DetailTableViewController.swift */,
 			);
 			path = MapPinPLiist;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				051E00231FDAC35500FCDB2B /* DetailTableViewController.swift in Sources */,
 				05B13A8A1F6E54C200669037 /* ViewController.swift in Sources */,
 				053ACF191FD9784E00792E29 /* NaviViewController.swift in Sources */,
 				05B13A881F6E54C200669037 /* AppDelegate.swift in Sources */,
