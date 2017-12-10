@@ -129,7 +129,7 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" id="6s2-X6-JzY">
-                        <barButtonItem key="rightBarButtonItem" systemItem="search" id="5uj-vQ-Dyh">
+                        <barButtonItem key="rightBarButtonItem" title="Item" image="icons8-waypoint_map.png" id="5uj-vQ-Dyh">
                             <connections>
                                 <segue destination="PtU-gV-KkE" kind="push" identifier="goNavi" id="gYd-kD-PNj"/>
                             </connections>
@@ -238,4 +238,7 @@
             <point key="canvasLocation" x="-235.19999999999999" y="-42.278860569715143"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="icons8-waypoint_map.png" width="25" height="25"/>
+    </resources>
 </document>

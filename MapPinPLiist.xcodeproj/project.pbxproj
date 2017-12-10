@@ -12,6 +12,7 @@
 		053ACF191FD9784E00792E29 /* NaviViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053ACF181FD9784E00792E29 /* NaviViewController.swift */; };
 		05AE537C1FDD2AD0005CE5B4 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05AE537B1FDD2AD0005CE5B4 /* Launch Screen.storyboard */; };
 		05AE53821FDD49FC005CE5B4 /* foodbg_1024_new.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05AE53811FDD49FC005CE5B4 /* foodbg_1024_new.jpg */; };
+		05AE53861FDD5118005CE5B4 /* icons8-waypoint_map.png in Resources */ = {isa = PBXBuildFile; fileRef = 05AE53851FDD5118005CE5B4 /* icons8-waypoint_map.png */; };
 		05B13A881F6E54C200669037 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B13A871F6E54C200669037 /* AppDelegate.swift */; };
 		05B13A8A1F6E54C200669037 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B13A891F6E54C200669037 /* ViewController.swift */; };
 		05B13A8D1F6E54C200669037 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05B13A8B1F6E54C200669037 /* Main.storyboard */; };
@@ -27,6 +28,7 @@
 		053ACF181FD9784E00792E29 /* NaviViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaviViewController.swift; sourceTree = "<group>"; };
 		05AE537B1FDD2AD0005CE5B4 /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = "Launch Screen.storyboard"; path = "../../../Busan-Public-Free-Food-Map-v1.1/Launch Screen.storyboard"; sourceTree = "<group>"; };
 		05AE53811FDD49FC005CE5B4 /* foodbg_1024_new.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = foodbg_1024_new.jpg; sourceTree = "<group>"; };
+		05AE53851FDD5118005CE5B4 /* icons8-waypoint_map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-waypoint_map.png"; sourceTree = "<group>"; };
 		05B13A841F6E54C200669037 /* MapPinPLiist.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MapPinPLiist.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		05B13A871F6E54C200669037 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		05B13A891F6E54C200669037 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 		05B13A861F6E54C200669037 /* MapPinPLiist */ = {
 			isa = PBXGroup;
 			children = (
+				05AE53851FDD5118005CE5B4 /* icons8-waypoint_map.png */,
 				05AE53811FDD49FC005CE5B4 /* foodbg_1024_new.jpg */,
 				05AE537B1FDD2AD0005CE5B4 /* Launch Screen.storyboard */,
 				053ACF151FD9648F00792E29 /* data.plist */,
@@ -157,6 +160,7 @@
 				05B13A8F1F6E54C200669037 /* Assets.xcassets in Resources */,
 				05B26F3D1F70AE1C00608322 /* ViewPoint2.plist in Resources */,
 				053ACF161FD9648F00792E29 /* data.plist in Resources */,
+				05AE53861FDD5118005CE5B4 /* icons8-waypoint_map.png in Resources */,
 				05AE53821FDD49FC005CE5B4 /* foodbg_1024_new.jpg in Resources */,
 				05B13A8D1F6E54C200669037 /* Main.storyboard in Resources */,
 			);
@@ -302,7 +306,7 @@
 				DEVELOPMENT_TEAM = UQ37D35Z4Z;
 				INFOPLIST_FILE = MapPinPLiist/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.ditapps.MapPinPLiist;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.ditapps.BusanFreeMeals;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -315,7 +319,7 @@
 				DEVELOPMENT_TEAM = UQ37D35Z4Z;
 				INFOPLIST_FILE = MapPinPLiist/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.ditapps.MapPinPLiist;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.ditapps.BusanFreeMeals;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
