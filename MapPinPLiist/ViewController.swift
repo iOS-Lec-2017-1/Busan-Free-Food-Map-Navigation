@@ -93,7 +93,7 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
         
         myMapView.addAnnotations(annos)
         //myMapView.showAnnotations(annos, animated: true)
-        //myMapView.selectAnnotation(annos[10], animated: true)
+        myMapView.selectAnnotation(annos[25], animated: true)
     }
     
     func zoomToRegion() {
