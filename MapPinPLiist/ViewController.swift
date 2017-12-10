@@ -30,13 +30,17 @@ import CoreLocation
 class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDelegate
 {
     
+    @IBOutlet weak var myMapView: MKMapView!
+    @IBOutlet weak var segControl: UISegmentedControl!
+    
     var item:[String:String] = [:]
     var items:[[String:String]] = []
-    @IBOutlet weak var myMapView: MKMapView!
     var locationManager: CLLocationManager!
     var fLat: Double?
     var fLong: Double?
     var viewTitle: String?
+    var curLat: Double?
+    var curLong: Double?
     
     override func viewDidLoad()
     {
@@ -57,10 +61,13 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
         locationManager.startUpdatingHeading()
         
         /////////////////////////////
+        curLat = locationManager.location?.coordinate.latitude
+        curLong = locationManager.location?.coordinate.longitude
         
         // 지도에 현재 위치 마크를 보여줌
         myMapView.showsUserLocation = true
         myMapView.userLocation.title = "현재 위치"
+        myMapView.showsCompass = true
         
         zoomToRegion()
         
@@ -90,15 +97,52 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
     }
     
     func zoomToRegion() {
-        // 35.199990, 129.083200
-        let curLat = locationManager.location?.coordinate.latitude
-        let curLong = locationManager.location?.coordinate.longitude
-        let center = CLLocationCoordinate2DMake(curLat!, curLong!)
         
-        let span = MKCoordinateSpanMake(0.2, 0.2)
+        segControl.selectedSegmentIndex = 3
+        // 35.199990, 129.083200
+//        curLat = locationManager.location?.coordinate.latitude
+//        curLong = locationManager.location?.coordinate.longitude
+        print("curLat = \(String(describing: curLat))")
+        print("curLong = \(String(describing: curLong))")
+        
+        let center = CLLocationCoordinate2DMake(35.230990, 129.083200)
+        //let center = CLLocationCoordinate2DMake(curLat!, curLong!)
+
+        let span = MKCoordinateSpanMake(0.41, 0.41)
         let region = MKCoordinateRegionMake(center, span)
         myMapView.setRegion(region, animated: true)
     }
+    
+    // segmentIndex = 1,2,3,4
+    @IBAction func segmentControlPressed(_ sender: Any) {
+        switch segControl.selectedSegmentIndex {
+        case 0:
+            let center = CLLocationCoordinate2DMake(curLat!, curLong!)
+            let region = MKCoordinateRegionMakeWithDistance(center, 2000, 2000)
+            myMapView.setRegion(region, animated: true)
+            
+        case 1:
+            let center = CLLocationCoordinate2DMake(curLat!, curLong!)
+            let region = MKCoordinateRegionMakeWithDistance(center, 4000, 4000)
+            myMapView.setRegion(region, animated: true)
+            
+        case 2:
+            let center = CLLocationCoordinate2DMake(curLat!, curLong!)
+            let region = MKCoordinateRegionMakeWithDistance(center, 8000, 8000)
+            myMapView.setRegion(region, animated: true)
+            
+        case 3:
+            let center = CLLocationCoordinate2DMake(35.230990, 129.083200)
+            //let center = CLLocationCoordinate2DMake(curLat!, curLong!)
+            let span = MKCoordinateSpanMake(0.41, 0.41)
+            let region = MKCoordinateRegionMake(center, span)
+            myMapView.setRegion(region, animated: true)
+            
+        default:
+            print("out of index")
+      }
+    }
+    
     
     func mapView(_ mapView: MKMapView, viewFor annotation: MKAnnotation) -> MKAnnotationView?
     {
@@ -162,12 +206,12 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
         }
     }
     
-    func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
-        let coor = manager.location?.coordinate
-        let curLat = coor?.latitude
-        let curLong = coor?.longitude
-        print("latitute  \(String(describing: curLat))    longitude   \(String(describing: curLong))")
-    }
+//    func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
+//        let coor = manager.location?.coordinate
+//        let curLat = coor?.latitude
+//        let curLong = coor?.longitude
+//        print("latitute  \(String(describing: curLat))    longitude   \(String(describing: curLong))")
+//    }
     
     
     // 콘솔(print)로 현재 위치 변화 출력

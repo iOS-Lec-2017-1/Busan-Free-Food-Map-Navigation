@@ -68,8 +68,8 @@ class DetailTableViewController: UITableViewController, CLLocationManagerDelegat
         dTarget.detailTextLabel?.text = dItem["target"]
         dMealDay.textLabel?.text = "급식일"
         dMealDay.detailTextLabel?.text = dItem["mealDay"]
-        dMealTime.textLabel?.text = "급식시간"
-        dMealTime.detailTextLabel?.text = dItem["time"]
+//        dMealTime.textLabel?.text = "급식시간"
+//        dMealTime.detailTextLabel?.text = dItem["time"]
         dManageNm.textLabel?.text = "관리기관"
         dManageNm.detailTextLabel?.text = dItem["manageNm"]
         dPhone.textLabel?.text = "전화번호"
