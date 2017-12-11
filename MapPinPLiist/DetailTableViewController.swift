@@ -99,14 +99,21 @@ class DetailTableViewController: UITableViewController, CLLocationManagerDelegat
         mapView.showsUserLocation = true
     }
 
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        if segue.identifier == "goNavi" {
-            let naviVC = segue.destination as! NaviViewController
-            
-            naviVC.nLat = dLat
-            naviVC.nLong = dLong
-            naviVC.nLoc = dLoc
-        }
+    @IBAction func launchMap(_ sender: Any) {
+        dLat = locationManager.location?.coordinate.latitude
+        dLong = locationManager.location?.coordinate.longitude
+        
+        let regionDistance:CLLocationDistance = 1000;
+        let coordinates = CLLocationCoordinate2DMake(dLat!, dLong!)
+        let regionSpan = MKCoordinateRegionMakeWithDistance(coordinates, regionDistance, regionDistance)
+        
+        let options = [MKLaunchOptionsMapCenterKey: NSValue(mkCoordinate: regionSpan.center), MKLaunchOptionsMapSpanKey: NSValue(mkCoordinateSpan: regionSpan.span)]
+        
+        let placemark = MKPlacemark(coordinate: coordinates)
+        let mapItem = MKMapItem(placemark: placemark)
+        
+        mapItem.name = dLoc
+        mapItem.openInMaps(launchOptions: options)
+        
     }
 }

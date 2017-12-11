@@ -131,7 +131,7 @@
                     <navigationItem key="navigationItem" id="6s2-X6-JzY">
                         <barButtonItem key="rightBarButtonItem" title="Item" image="icons8-waypoint_map.png" id="5uj-vQ-Dyh">
                             <connections>
-                                <segue destination="PtU-gV-KkE" kind="push" identifier="goNavi" id="gYd-kD-PNj"/>
+                                <action selector="launchMap:" destination="vvq-nA-uSk" id="MjR-jU-eAt"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
@@ -145,26 +145,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Stk-XT-YaN" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1589.5999999999999" y="142.57871064467767"/>
-        </scene>
-        <!--Navi View Controller-->
-        <scene sceneID="93m-Ec-WkZ">
-            <objects>
-                <viewController id="PtU-gV-KkE" customClass="NaviViewController" customModule="MapPinPLiist" customModuleProvider="target" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="Mq7-xd-vcg"/>
-                        <viewControllerLayoutGuide type="bottom" id="C0Y-PS-D08"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="MQ6-eC-BOs">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                    </view>
-                    <navigationItem key="navigationItem" id="g9k-hq-15v"/>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="fKd-Uy-Ob4" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="2268" y="352"/>
+            <point key="canvasLocation" x="1348" y="76"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
@@ -182,9 +163,8 @@
                                 <rect key="frame" x="0.0" y="64" width="375" height="603"/>
                             </mapView>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="uqp-QY-7Pn">
-                                <rect key="frame" x="88.5" y="79" width="198" height="29"/>
+                                <rect key="frame" x="98" y="79" width="179" height="29"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="198" id="YRq-6D-XQr"/>
                                     <constraint firstAttribute="height" constant="28" id="hjg-4H-5Xf"/>
                                 </constraints>
                                 <segments>
