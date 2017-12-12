@@ -17,7 +17,6 @@
 		05B13A8D1F6E54C200669037 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05B13A8B1F6E54C200669037 /* Main.storyboard */; };
 		05B13A8F1F6E54C200669037 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05B13A8E1F6E54C200669037 /* Assets.xcassets */; };
 		05B13A9B1F6E553200669037 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05B13A9A1F6E553200669037 /* MapKit.framework */; };
-		05B26F3D1F70AE1C00608322 /* ViewPoint2.plist in Resources */ = {isa = PBXBuildFile; fileRef = 05B26F3C1F70AE1C00608322 /* ViewPoint2.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,7 +33,6 @@
 		05B13A8E1F6E54C200669037 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		05B13A931F6E54C200669037 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		05B13A9A1F6E553200669037 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
-		05B26F3C1F70AE1C00608322 /* ViewPoint2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ViewPoint2.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,7 +73,6 @@
 				053ACF151FD9648F00792E29 /* data.plist */,
 				05B13A871F6E54C200669037 /* AppDelegate.swift */,
 				05B13A891F6E54C200669037 /* ViewController.swift */,
-				05B26F3C1F70AE1C00608322 /* ViewPoint2.plist */,
 				05B13A8B1F6E54C200669037 /* Main.storyboard */,
 				05B13A8E1F6E54C200669037 /* Assets.xcassets */,
 				05B13A931F6E54C200669037 /* Info.plist */,
@@ -126,7 +123,7 @@
 					05B13A831F6E54C200669037 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = UQ37D35Z4Z;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -155,7 +152,6 @@
 			files = (
 				05AE537C1FDD2AD0005CE5B4 /* Launch Screen.storyboard in Resources */,
 				05B13A8F1F6E54C200669037 /* Assets.xcassets in Resources */,
-				05B26F3D1F70AE1C00608322 /* ViewPoint2.plist in Resources */,
 				053ACF161FD9648F00792E29 /* data.plist in Resources */,
 				05AE53861FDD5118005CE5B4 /* icons8-waypoint_map.png in Resources */,
 				05AE53821FDD49FC005CE5B4 /* foodbg_1024_new.jpg in Resources */,
@@ -299,11 +295,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = UQ37D35Z4Z;
 				INFOPLIST_FILE = MapPinPLiist/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.ditapps.BusanFreeMeals;
+				PRODUCT_BUNDLE_IDENTIFIER = ac.kr.ditapps.BusanFreeMeals;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "ff5fcc82-e300-4059-8165-6cbf5f314a2f";
+				PROVISIONING_PROFILE_SPECIFIER = BusanFreeMeals_Dev;
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -312,11 +313,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = UQ37D35Z4Z;
 				INFOPLIST_FILE = MapPinPLiist/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.ditapps.BusanFreeMeals;
+				PRODUCT_BUNDLE_IDENTIFIER = ac.kr.ditapps.BusanFreeMeals;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "6d710ab6-959e-433f-a08b-8524adf1e715";
+				PROVISIONING_PROFILE_SPECIFIER = BusanFreeMeals_Dist;
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
