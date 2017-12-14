@@ -6,6 +6,6 @@
 3. 현재 위치에서 반경 2Km, 4Km, 8Km 반경 내의 무료급식소 위치 찾기 제공
 4. 무료 급식소의 네비게이션 기능 제공
 
-* 앱스터어 다운로드 : https://itunes.apple.com/app/id1323910137
+* iOS 앱스토어 다운로드 : https://itunes.apple.com/app/id1323910137
 
 ![Alt text](https://jhkim3217.gitbooks.io/busan-open-data-app-dev/content/assets/free_Mael_screen.png)
